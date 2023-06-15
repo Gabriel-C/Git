@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "judyzHMRKMRCQgnZHJ4mV17ItTnWNYpEFhiABAzLLGA=",
+  "Source": "RpiApi",
+  "BasePath": "_content/RpiApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
