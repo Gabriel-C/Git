@@ -1,16 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "YJns2IP4INKcz6PqhI8EQrlUWROM1DY2IZ1LAFKDyvCvEozSN+fc3VFbDkMZkuXzDNvP4KEFH4sVyf7pFjJk/A==",
+  "dgSpecHash": "eZNX7+xb+u2KATgIDeBc5e8EJIcm1DZepCuiA5MmItDQ+6nsXkcFY9bPP1a1zxIkiHh9Cp39VaYO2jqhlmK0pg==",
   "success": true,
   "projectFilePath": "/home/gabrielcodreanu/Git/RpiApi/RpiApi.csproj",
   "expectedPackageFiles": [
+    "/home/gabrielcodreanu/.nuget/packages/asp.versioning.abstractions/7.0.0/asp.versioning.abstractions.7.0.0.nupkg.sha512",
+    "/home/gabrielcodreanu/.nuget/packages/asp.versioning.http/7.0.0/asp.versioning.http.7.0.0.nupkg.sha512",
+    "/home/gabrielcodreanu/.nuget/packages/asp.versioning.mvc/7.0.0/asp.versioning.mvc.7.0.0.nupkg.sha512",
+    "/home/gabrielcodreanu/.nuget/packages/asp.versioning.mvc.apiexplorer/7.0.0/asp.versioning.mvc.apiexplorer.7.0.0.nupkg.sha512",
     "/home/gabrielcodreanu/.nuget/packages/microsoft.aspnetcore.openapi/7.0.7/microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "/home/gabrielcodreanu/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/gabrielcodreanu/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/home/gabrielcodreanu/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/home/gabrielcodreanu/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/gabrielcodreanu/.nuget/packages/swashbuckle.aspnetcore.annotations/6.5.0/swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
     "/home/gabrielcodreanu/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/home/gabrielcodreanu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/home/gabrielcodreanu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/home/gabrielcodreanu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/gabrielcodreanu/.nuget/packages/microsoft.netcore.app.host.linux-arm64/7.0.0/microsoft.netcore.app.host.linux-arm64.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

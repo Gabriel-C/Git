@@ -1,0 +1,6 @@
+namespace RpiApi.Repository.v1_0;
+
+public interface ISensorsDa
+{
+    public double GetTemperature();
+}
